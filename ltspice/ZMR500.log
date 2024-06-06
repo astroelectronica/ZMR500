@@ -18,3 +18,4 @@ solver = Normal
 Avg thread counts: 1.1/0.0/1.2/1.1
 Matrix Compiler1: 3.89 KB object code size  1.4/0.9/[0.5]
 Matrix Compiler2: 4.41 KB object code size  0.5/0.8/[0.5]
+
